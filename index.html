@@ -1,8 +1,9 @@
 <body>
 <title>Place of death</title>
 <html>
-<div style="color:#C0c0c0;align="center">Hi</p>
-
+<div align="center"><p id="fatedecider"></p>
+</p>
+<button onclick="myFunction()">Decide your fate</button>
 </html>
 
 </body>
@@ -26,7 +27,32 @@ Align:centre;
 .Hack
 {
 Color:red;
+Background-color:black;
+}
+button
+{
+Background-color:c0c0c0;
+Padding-left:2%;
+Padding-right:2%;
+Padding-bottom:2%;
+Padding-top:2%;
+
 
 
 }
+
+
+
 </style>
+
+<script>
+function myFunction() {
+    var x;
+    if (confirm("Press a button!") == true) {
+        x = "You pressed Ok, Therefoee you did.";
+    } else {
+        x = "You pressed Cancel, Therefore you die.";
+    }
+    document.getElementById("fatedecider").innerHTML = x;
+}
+</script>
