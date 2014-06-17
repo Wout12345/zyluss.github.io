@@ -1,7 +1,7 @@
 <body>
 <title>Place of death</title>
 <html>
-<div align="center"><p id="fatedecider"></p>
+<div align="center"><p id="demo"></p>
 </p>
 <button onclick="myFunction()">Decide your fate</button>
 </html>
@@ -44,15 +44,11 @@ Padding-top:2%;
 
 
 </style>
-
-<script>
 function myFunction() {
-    var x;
-    if (confirm("Press a button!") == true) {
-        x = "You pressed Ok, Therefore you die. by cats...";
-    } else {
-        x = "You pressed Cancel, Therefore you die. by children...";
-    }
-    document.getElementById("fatedecider").innerHTML = x;
+    var x = document.getElementById("demo")
+    x.innerHTML = Math.floor((Math.random() * 2) + 1);
+}
+<script>
+
 }
 </script>
