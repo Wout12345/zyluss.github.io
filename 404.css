@@ -1,11 +1,16 @@
-.404
+<style>
+center
 {
-width: 300px;
-    height: 100px;
-    background-color:999;
-    box-shadow: 10px 10px 5px #8888888
-
-
-
-
+padding-top:2%;
+padding-bottom:2%;
+padding-right:2%;
+padding-left:2%;
+background-color:black;
+border-top-left-radius: 10px 5px;
+border-bottom-right-radius: 10px 5px;
+border-bottom-left-radius: 10px 5px;
+border-top-right-radius: 10px 5px;
+color:#c0c0c0;
+text-align:center;
 }
+</style>
