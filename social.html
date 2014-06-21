@@ -8,11 +8,19 @@
 <!-HTML Header-->
 <div class="header">
  
-<a href="http://Zyluss.github.io"><img src="http://dummyimage.com/150x50/000000/999&text=Home"></a>
-<a href="http://Zyluss.github.io/social"><img src="http://dummyimage.com/150x50/000000/999&text=Social"></a>
-<a href="http://Zyluss.github.io/other"><img src="http://dummyimage.com/150x50/000000/999&text=Other"></a> 
+<a href="http://Zyluss.github.io"><img onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/150x50/000000/999&text=Home"></a>
+<a href="http://Zyluss.github.io/social"><img onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/150x50/000000/999&text=Social"></a>
+<a href="http://Zyluss.github.io/other"><img onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/150x50/000000/999&text=Other"></a> 
 
 </div>
+
+<a href="http://zyluss.github.io" onmouseover="onHover();" onmouseout="offHover();">Hover on me</a>
+ 
+ <style>
+ 
+</style>
+
+
 
 <link rel="icon" href="/images/favicon.png" type="http://minecraft-skin-viewer.com/face.php?u=Zyluss_&s=172" />
 <link rel="shortcut icon" href="http://minecraft-skin-viewer.com/face.php?u=Zyluss_&s=172"/>
@@ -58,7 +66,19 @@ float:bottom;
 }
 
 
+img{
+  color:blue;
+  transition: color 0s;
+  border-bottom-color:black;
+  
+  
+}
 
+img:hover{
+  transition: border-bottom-color 1s;
+  border-bottom-color:#903;
+  border-bottom-style:solid;
+}
 
 
 
