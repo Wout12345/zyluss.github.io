@@ -13,13 +13,13 @@
 <div class="header">
 
 <a href="http://Zyluss.github.io">
-<img onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/200x100/000000/999&text=Home">
+<img class="mousevent" onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/200x100/000000/999&text=Home">
 </a>
 <a href="http://Zyluss.github.io/social">
-<img onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/200x100/000000/999&text=Social">
+<img class="mousevent" onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/200x100/000000/999&text=Social">
 </a>
 <a href="http://Zyluss.github.io/other">
-<img onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/200x100/000000/999&text=Other">
+<img class="mousevent" onmouseover="onHover();" onmouseout="offHover();" src="http://dummyimage.com/200x100/000000/999&text=Other">
  
 </a> 
 
@@ -63,7 +63,7 @@ padding-top:2%;
 
 
 
-img{
+.mousevent{
   color:blue;
   transition: color 0s;
   border-bottom-color:black;
@@ -71,7 +71,7 @@ img{
   
 }
 
-img:hover{
+.mousevent:hover{
   transition: border-bottom-color 1s;
   border-bottom-color:#903;
   border-bottom-style:solid;
