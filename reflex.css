@@ -1,0 +1,28 @@
+<style>
+body
+{
+ background-color: #333333;
+}
+.mousevent{
+  color:blue;
+  transition: color 0s;
+  border-bottom-color:black;
+}
+.mousevent:hover{
+  transition: border-bottom-color 1s;
+  border-bottom-color:#903;
+  border-bottom-style:solid;
+}
+.menu
+{
+color:#3366FF;
+} 
+.row1 
+{
+color:white; 
+}
+.row2
+{
+color:white;
+}
+ </style>
