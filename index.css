@@ -1,13 +1,4 @@
 <style>
-  .no
-  {
-    padding-left:2%;
-    padding-right:2%;
-    padding-top:2%;
-    padding-bottom:2%;
-    background-color:#c0c0c0;
-    border-style: solid;
-    border-color:black;
     
     
   }
@@ -25,6 +16,7 @@
     padding-bottom:2.5%;
     padding-top:2.5%;
     transition: padding 2.5s;
+    text-decoration:none;
   }
   .cool
   {
