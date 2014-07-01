@@ -1,16 +1,16 @@
-<style>
-center
+a
 {
-padding-top:2%;
-padding-bottom:2%;
-padding-right:2%;
-padding-left:2%;
-background-color:black;
-border-top-left-radius: 10px 5px;
-border-bottom-right-radius: 10px 5px;
-border-bottom-left-radius: 10px 5px;
-border-top-right-radius: 10px 5px;
-color:#c0c0c0;
+float:center;
 text-align:center;
-}
-</style>
+background:#818991;
+padding-left:2.5%;
+padding-right:2.5%;
+padding-bottom:2.5%;
+padding-top:2.5%;
+transition: padding 2.5s;
+font-size:250px;
+text-decoration:none;
+color:black;
+vertical-align:center;
+height: 50%;
+line-height: 100%;
