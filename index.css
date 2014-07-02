@@ -3,17 +3,33 @@
   {
     background-color:#C0C0C0;
   }
+  a
+  {
+  text-decoration:none;
+  color:#999;
+  padding:2.5%;
+  background:black;
+  font-size:25px;
+  }
+  a:hover
+  {
+  text-decoration:none;
+  color:white;
+  padding:2.5%;
+  background:black;
+  font-size:30px;
+  }
   
+  
+
+
+
+
   .header
   {
     text-align:left;
     background-color:#818991;
-    padding-left:2.5%;
-    padding-right:2.5%;
-    padding-bottom:2.5%;
-    padding-top:2.5%;
-    transition: padding 2.5s;
-    text-decoration:none;
+    padding:4%;
     position: fixed;
   }
   .cool
@@ -21,18 +37,6 @@
     width: 100px;
     height: 100px;
   }
-  .mousevent{
-    color:blue;
-    transition: color 0s;
-    border-top-color:black;
-    border-bottom-color:black;
-    transition: border-top-color 1.2s;
-  }
-  
-  
-  .mousevent:hover{
-    transition: border-top-color 2.2s;
-    border-top-color:#903;
-    border-top-style:solid;
-  }
-  
+
+
+
