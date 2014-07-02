@@ -14,6 +14,7 @@
     padding-top:2.5%;
     transition: padding 2.5s;
     text-decoration:none;
+    position: fixed;
   }
   .cool
   {
