@@ -5,6 +5,7 @@
   }
   a
   {
+  text-align:left;
   text-decoration:none;
   color:#999;
   padding:2.5%;
@@ -15,6 +16,7 @@ font-weight: 300;
   }
   a:hover
   {
+text-align:left;
   text-decoration:none;
   color:white;
   padding:2.5%;
