@@ -21,9 +21,13 @@ text-align:left;
   color:white;
   padding:2.5%;
   background:black;
-  font-size:30px;
+  font-size:25px;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 font-weight: 300;
+   opacity: 0.4;
+    filter: alpha(opacity=40);
+transition: opacity 2s;
+transition: filter 2s;
   }
   img
 {
@@ -50,6 +54,5 @@ height:50px;
     width: 0px;
     height: 0px;
   }
-
 
 
