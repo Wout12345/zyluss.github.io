@@ -5,47 +5,41 @@
   }
   a
   {
-  text-align:left;
-  text-decoration:none;
-  color:#999;
-  padding:2.5%;
-  background:black;
-  font-size:25px;
-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-font-weight: 300;
-border-style:solid;
-border-color:black;
+    text-align:left;
+    text-decoration:none;
+    color:#999;
+    padding:2.5%;
+    background:black;
+    font-size:25px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
   }
   a:hover
   {
-text-align:left;
-  text-decoration:none;
-  color:white;
-  padding:2.5%;
-  background:black;
-  font-size:25px;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-font-weight: 300;
-   opacity: 0.4;
-    filter: alpha(opacity=40);
-transition: opacity 2s;
-transition: filter 2s;
-border-bottom-color:red;
-transition: border-bottom-color 2s;
+    text-align:left;
+    text-decoration:none;
+    color:white;
+    padding:2.5%;
+    background:black;
+    font-size:25px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    opacity: 0.4;
+    transition: opacity 2s;
   }
   
   
   img
-{
-width:50px;
-height:50px;
-}
+  {
+    width:50px;
+    height:50px;
+  }
   
   
-
-
-
-
+  
+  
+  
+  
   .header
   {
     text-align:left;
@@ -60,5 +54,5 @@ height:50px;
     width: 0px;
     height: 0px;
   }
-
-
+  
+  
