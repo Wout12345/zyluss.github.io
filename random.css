@@ -3,6 +3,13 @@ body
 {
 background-color:#C0C0C0;  
 }
+p
+{
+text-align:center;
+}
+
+
+
 .index
 {
 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
