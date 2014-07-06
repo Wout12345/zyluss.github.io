@@ -1,0 +1,28 @@
+h1
+{
+transition:text-decoration 0.7s;
+}
+p
+{
+transition: font-size 0.7s;  
+}
+h1:hover
+{
+text-decoration:underline; 
+}
+.pseaudo
+{
+background:#999;
+padding:4%;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight: 300;
+transition:font-size 0.7s;
+}
+.example
+{
+color:white; 
+}
+.example:hover
+{
+font-size:25px;
+}
