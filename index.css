@@ -1,6 +1,6 @@
 <style>
 .about
-    text-align:left;
+    {text-align:left;
     text-decoration:none;
     color:#999;
     padding:2.5%;
@@ -8,8 +8,8 @@
     font-size:25px;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
+}
 
-}  
 body
   {
     background-color:#C0C0C0;
