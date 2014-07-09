@@ -1,7 +1,5 @@
 <style>
 .about
-{
-    position:bottom 20px;
     text-align:left;
     text-decoration:none;
     color:#999;
@@ -10,8 +8,6 @@
     font-size:25px;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
-
-    vertical-align:50px;
 
 }  
 body
