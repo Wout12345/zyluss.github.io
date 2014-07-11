@@ -9,7 +9,6 @@ body
     text-align:left;
     text-decoration:none;
     color:#999;
-    padding:2.5%;
     background:black;
     font-size:25px;
 font-family:"Helvetica";
@@ -20,7 +19,6 @@ font-family:"Helvetica";
     text-align:left;
     text-decoration:none;
     color:white;
-    padding:2.5%;
     background:black;
     font-size:25px;
     font-family:"Helvetica";
@@ -57,7 +55,7 @@ font-family:"Helvetica";
     padding:2.5%;
     width:100%;
     display: inline-block;
-    
+    overflow-x: hidden;
   }
 body
 {
