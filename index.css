@@ -12,8 +12,8 @@ body
     padding:2.5%;
     background:black;
     font-size:25px;
-font-family:"Dosis";
-    font-weight: 300;
+font-family:"Helvetica";
+    font-weight: 100;
    }
   a:hover
   {
@@ -23,8 +23,8 @@ font-family:"Dosis";
     padding:2.5%;
     background:black;
     font-size:25px;
-    font-family:"Dosis";
-    font-weight: 300;
+    font-family:"Helvetica";
+    font-weight: 100;
     opacity: 0.4;
     transition: opacity 2s;
   }
@@ -43,8 +43,8 @@ font-family:"Dosis";
     background:black;
     font-size:20px;
     
-    font-family:"Dosis"; 
-    font-weight: 300;
+    font-family:"Helvetica"; 
+    font-weight: 100;
 }
   
   
