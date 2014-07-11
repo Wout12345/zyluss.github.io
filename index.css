@@ -13,7 +13,8 @@ body
     font-size:25px;
 font-family:"Helvetica";
     font-weight: 100;
-    padding:2.5%;
+    width:2.5%;
+    height:1.5%;
    }
   a:hover
   {
@@ -54,8 +55,6 @@ font-family:"Helvetica";
     text-align:left;
     background-color:#818991;
     width:100%;
-    display: inline-block;
-    height:50px;
   }
 body
 {
