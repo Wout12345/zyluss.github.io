@@ -1,4 +1,4 @@
-$( "#menu" ).ready(function() {
+$(window).load(function() {
   $( "#menu" ).animate({
     width: "70%",
     opacity: 1,
