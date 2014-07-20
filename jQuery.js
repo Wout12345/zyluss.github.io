@@ -1,5 +1,5 @@
-$( ".header" ).ready(function() {
-  $( ".header" ).animate({
+$( "#menu ).ready(function() {
+  $( "#menu" ).animate({
     width: "70%",
     opacity: 1,
     marginLeft: "0.6px",
