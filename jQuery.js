@@ -7,3 +7,10 @@ $(window).load(function() {
     borderWidth: "10px"
   }, 1500 );
 });
+
+$(document).ready(function(){
+  $("#boraliser").click(function(){
+    $("#menu").addClass("boring");
+    $("#boraliser").addClass("borbutton");
+  });
+});
