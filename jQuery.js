@@ -8,9 +8,3 @@ $(window).load(function() {
   }, 1500 );
 });
 
-$(document).ready(function(){
-  $("#boraliser").click(function(){
-    $("#menu").addClass("boring");
-    $("#boraliser").addClass("borbutton");
-  });
-});
