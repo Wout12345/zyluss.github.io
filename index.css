@@ -3,7 +3,7 @@
 {
    background-color:black;
    padding:2.5%;
-   position:fixed;
+   position:absolute;
 }
 a
 {
@@ -27,6 +27,7 @@ a:hover
     font-family:Helvetica;
     font-size:25px;
     top:25px;
+    position:relative
     
     
   }
