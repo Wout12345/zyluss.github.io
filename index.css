@@ -24,6 +24,9 @@ a:hover
    color:white;
    opacity:0.4;
 }
+a:focus {
+  color: #ccc;
+}
 .info
 {
   color:whitesmoke;
