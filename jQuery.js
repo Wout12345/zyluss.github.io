@@ -9,11 +9,3 @@ $(window).load(function() {
 });
 
 
-$(".header").css("top",$(".header").outerHeight());
-
-$(window).resize(function(){
-  $(".header").css("top",$(".header").outerHeight());
-});
-$( document ).click(function() {
-  $( ".header" ).toggle( "fold" );
-});
