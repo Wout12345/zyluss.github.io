@@ -21,15 +21,13 @@ a:hover
 }
   .info
   {
-    
-    color:#C0C0C0;
-    background-color:black;
+    color:whitesmoke;
+    background-color:gray;
     font-family:Helvetica;
-    font-size:25px;
+    font-size:20px;
     top:200px;
     position:relative;
     width:60%;
-    height:60px;
     padding:1.5%;
     
     
