@@ -9,9 +9,7 @@ body
 {
    background-color:black;
    padding:2.5%;
-   
-   
-   
+   position:absolute;
 }
 a
 {
@@ -43,7 +41,15 @@ a:hover
     font-weight: 100;
 }
 
-  
+  .info
+  {
+    
+    color:#C0C0C0;
+    background-color:black;
+    font-family:Helvetica;
+    font-size:25px;
+    margin-top:25px;
+  }
   
   
 
