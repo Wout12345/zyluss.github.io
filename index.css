@@ -2,9 +2,7 @@
 body {
   font-family: 'Helvetica Neue', 'Helvetica-Neue', 'Helvetica', 'Roboto', arial, sans-serif;
 }
-*:focus {
-  outline: none;
-}
+
 .header
 {
    background-color:#8B7D6B;
