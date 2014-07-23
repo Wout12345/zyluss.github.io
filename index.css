@@ -7,9 +7,10 @@ body {
 }
 .header
 {
-   background-color:black;
+   background-color:salmon2;
    padding:2.5%;
-   position:absolute;
+   position:fixed;
+   
 }
 a
 {
@@ -32,7 +33,7 @@ a:focus {
   color:whitesmoke;
   background-color:#330000;
   font-size:20px;
-  top:200px;
+  top:15%;
   position:relative;
   width:60%;
   padding:1.5%;
