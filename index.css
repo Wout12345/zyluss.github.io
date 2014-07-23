@@ -2,6 +2,7 @@
 body {
   background-color:#CDC5BF;
   font-family: 'Helvetica Neue', 'Helvetica-Neue', 'Helvetica', 'Roboto', arial, sans-serif;
+  font-weight:100;
 }
 
 .header
@@ -30,7 +31,7 @@ a:hover
   color:whitesmoke;
   background-color:#330000;
   font-size:20px;
-  top:170px;
+  top:130px;
   position:relative;
   width:60%;
   padding:1.5%;
