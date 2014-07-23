@@ -6,7 +6,8 @@ body {
 .header
 {
    background-color:#8B7D6B;
-   position:absolute;
+   position:fixed;
+   padding:1.5%;
    
 }
 a
