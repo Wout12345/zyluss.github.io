@@ -7,7 +7,7 @@ body {
 }
 .header
 {
-   background-color:#FF7F50;
+   background-color:#8B7D6B;
    padding:2.5%;
    position:absolute;
    
@@ -15,7 +15,7 @@ body {
 a
 {
    text-decoration:none;
-   color:#999;
+   color:#CC7722;
    font-size:25px;
    margin:15px;
    transition:0.7s;
@@ -25,9 +25,7 @@ a:hover
    color:white;
    opacity:0.4;
 }
-a:focus {
-  color: #ccc;
-}
+
 .info
 {
   color:whitesmoke;
