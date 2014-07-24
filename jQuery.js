@@ -9,7 +9,7 @@ $(window).load(function() {
 });
 
 $(window).load(function() {
-  $( "div" ).animate({
+  $( "div" ).drop({
   }, 1500 );
 });
 
