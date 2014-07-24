@@ -15,7 +15,7 @@ body {
 a
 {
    text-decoration:none;
-   color:white;
+   color:whitesmoke;
    font-size:25px;
    margin:15px;
    transition:0.7s;
@@ -28,7 +28,7 @@ a:hover
 
 .info
 {
-  color:whitesmoke;
+  color:white;
   background-color:#330000;
   font-size:20px;
   top:100px;
