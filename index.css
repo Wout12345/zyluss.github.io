@@ -32,8 +32,7 @@ a:hover
   background-color:#330000;
   font-size:20px;
   top:100px;
-  position:relative;
-  width:60%;
+  position:absolute;
   padding:1.5%;
    
   
