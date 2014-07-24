@@ -8,4 +8,8 @@ $(window).load(function() {
   }, 1500 );
 });
 
+$(window).load(function() {
+  $( "div" ).animate({
+  }, 1500 );
+});
 
