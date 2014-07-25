@@ -9,7 +9,7 @@ $(window).load(function() {
 });
 
 $(window).load(function() {
-  $( "div" ).drop({
-  }, 1500 );
+  $( "div" ).show( "slow", function() {
+    // Div show
+  });
 });
-
