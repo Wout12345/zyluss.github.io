@@ -8,7 +8,7 @@ $(window).load(function() {
   }, 1500 );
 });
 
-$(".header").load(function() {
+$(window).ready(function() {
   $( "div" ).show( "slow", function() {
     // Div show
   });
