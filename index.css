@@ -10,6 +10,7 @@ body {
    background-color:#8B7D6B;
    position:fixed;
    padding:1.5%;
+   box-shadow: 10px 10px 10px black;
    
 }
 a
@@ -24,7 +25,7 @@ a:hover
 {
    color:white;
    opacity:0.4;
-   box-shadow: 10px 10px 10px black;
+   
 }
 
 .info
