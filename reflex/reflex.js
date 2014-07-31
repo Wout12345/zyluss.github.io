@@ -12,7 +12,8 @@ $(document).ready(function(){
 			output += "\
 			<div class='member'>\
 				<img src='http://minecraft-skin-viewer.com/face.php?u="+ i +"&s=400'>\
-				<span>"+ i +"</span>\
+				<span class='name'>"+ i +"</span><br>\
+				<span>&lt;youtube&gt;</span>\
 			</div>\
 			";
 		}
