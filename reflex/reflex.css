@@ -28,7 +28,7 @@ a {
 }
 
 #header {
-	
+	background: #000;
 }
 	.btn {
 		color: #aaa;
@@ -43,9 +43,23 @@ a {
 		color: #fff;
 	}
 
-.menu {
-	color: #3366FF;
-}
-.row1 {
+.member {
 	color: #fff; 
+	display: inline-block;
+	height: 40px;
+	background: #222;
+	padding: 10px;
+	border-radius: 2px;
+	margin: 10px;
+}
+.member img {
+	height: 40px;
+	float: left;
+	margin: 0;
+}
+.member span {
+	vertical-align: center;
+	float: right;
+	margin-left: 15px;
+	font-size: 25px;
 }
