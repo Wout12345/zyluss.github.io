@@ -1,0 +1,547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mmber",
+				"memberinfo"
+			],
+			[
+				"play",
+				"playbackRate"
+			],
+			[
+				"pr",
+				"prlist"
+			],
+			[
+				"we",
+				"webkit-transform"
+			],
+			[
+				"webkit-tra",
+				"webkit-transform-origin-x"
+			],
+			[
+				"boder-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"boder-",
+				"border-bottom-left-radius"
+			],
+			[
+				"boder-top",
+				"border-top-right-radius"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"webki",
+				"webkit-transform-origin-x"
+			],
+			[
+				"ce",
+				"checkConnection"
+			],
+			[
+				"disclai",
+				"disclaimerBtnDeveloper"
+			],
+			[
+				"discla",
+				"disclaimerBtnDismiss"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"n",
+				"pointer"
+			],
+			[
+				"text-",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "reflex.css",
+			"settings":
+			{
+				"buffer_size": 1642,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "reflex.js",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "members.json",
+			"settings":
+			{
+				"buffer_size": 231,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Chrome/Apps/apr/window.js",
+		"/D/Chrome/Apps/apr/window.css",
+		"/D/Chrome/Apps/apr/window.html",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/members.json",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/reflex.js",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/reflex.css",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/index.html",
+		"/D/Chrome/Apps/apr/background.js",
+		"/D/Chrome/Apps/apr/manifest.json",
+		"/D/Chrome/Apps/apr/presentations.json",
+		"/D/Chrome/Apps/apr/assets/right.svg",
+		"/D/Chrome/Apps/apr/assets/left.svg",
+		"/D/Chrome/Apps/apr/presentations/Earth/7.html",
+		"/D/Chrome/Apps/apr/presentations/Earth/7.js",
+		"/D/Chrome/Apps/apr/presentations/Example/7.html",
+		"/D/Chrome/Apps/apr/presentations/Example/info.json",
+		"/D/Minecraft/Minecraft_Servers/ACC/usercache.json",
+		"/D/Minecraft/Minecraft_Servers/ACC/ops.json",
+		"/D/Minecraft/Minecraft_Servers/ACC/whitelist.json",
+		"/D/Minecraft/Minecraft_Servers/ACC/banned-players.json",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/ie.js",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/scrtest.html",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/talk.html",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/swag.php",
+		"/D/Chrome/Apps/PR/presentations.json",
+		"/D/Chrome/Apps/PR/window.js",
+		"/D/Chrome/Apps/PR/window.css",
+		"/D/Chrome/Apps/PR/window.html",
+		"/D/Chrome/Apps/PR/background.js",
+		"/D/Chrome/Apps/PR/manifest.json",
+		"/D/Chrome/Apps/UIAPI/window.css",
+		"/D/Chrome/Apps/UIAPI/window.js",
+		"/D/Chrome/Apps/PR/presentations/Example/info.json",
+		"/D/Chrome/Apps/PR/README.md",
+		"/C/Users/creep_000/Documents/GitHub/bsnet.github.io/default.css",
+		"/C/Users/creep_000/Documents/GitHub/mms/staff/index.js",
+		"/D/Chrome/Apps/psa/index.css",
+		"/D/Chrome/Apps/psa/index.js",
+		"/D/Chrome/Apps/psa/window.html",
+		"/D/Chrome/Apps/psa/window.js",
+		"/D/Chrome/Apps/psa/manifest.json",
+		"/C/Users/creep_000/Documents/GitHub/nextivity.github.io/index.html",
+		"/C/Users/creep_000/Documents/GitHub/nextivity.github.io/index.js",
+		"/C/Users/creep_000/Documents/GitHub/bsnet.github.io/warning.js",
+		"/C/Users/creep_000/Documents/GitHub/bsnet.github.io/elements.js",
+		"/C/Users/creep_000/Documents/GitHub/bsnet.github.io/index.html",
+		"/C/Users/creep_000/Documents/GitHub/nextivity.github.io/default.css",
+		"/C/Users/creep_000/Documents/GitHub/bsnet.github.io/assets/bs-werewolver-logo.svg",
+		"/C/Users/creep_000/AppData/Roaming/.minecraft/versions/14w30c/14w30c/assets/minecraft/shaders/program/antialias.json",
+		"/D/Minecraft/Minecraft_Servers/ACC/server.properties",
+		"/C/Users/creep_000/Documents/GitHub/mms/default.css",
+		"/C/Users/creep_000/Documents/GitHub/bsnet.github.io/readme.md",
+		"/D/P/saw/index.css",
+		"/D/P/saw/index.js",
+		"/D/P/saw/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MC-MMS-Server.github.io/javascript/crashIE.js",
+		"/C/Users/creep_000/Google Drive/S/maths/sqrt/index.html",
+		"/D/S/maths/sqrt/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/staff/index.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/staff/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/staff/members.json",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/elements.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/default.css",
+		"/C/Users/creep_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/creep_000/Documents/GitHub/creeper32605.github.io/index.js",
+		"/D/AI/bs-werewolver-logo.svg",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/index.html",
+		"/D/Chrome/Apps/cedit/background.js",
+		"/D/Chrome/Apps/cedit/manifest.json",
+		"/D/Chrome/Apps/mms/window.js",
+		"/D/Chrome/Apps/mms/window.css",
+		"/D/Chrome/Apps/mms/window.html",
+		"/D/Chrome/Apps/mms/background.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/plotworld/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/economy/index.html",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/index.html",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/index.css",
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/cheese.html",
+		"/C/Users/creep_000/AppData/Local/Temp/Temp1_Nodus_2.0-1.7.x.zip/Nodus_2.0-1.7.x/Nodus_2.0-1.7.x/Nodus_2.0-1.7.x.json",
+		"/D/Chrome/Apps/UIAPI/window.html",
+		"/C/Users/creep_000/Documents/GitHub/creeper32605.github.io/random/css/materialdesign/buttons.js",
+		"/C/Users/creep_000/Documents/GitHub/creeper32605.github.io/random/css/materialdesign/buttons.css",
+		"/C/Users/creep_000/Documents/GitHub/Creeps-kake-Depository/Readme.md",
+		"/D/Chrome/Apps/UIAPI/index.js",
+		"/C/Users/creep_000/Documents/GitHub/Creeps-kake-Depository/web/index.css",
+		"/C/Users/creep_000/Documents/GitHub/Creeps-kake-Depository/web/index.js",
+		"/D/Chrome/Apps/UIAPI/background.js",
+		"/D/Chrome/Apps/UIAPI/manifest.json",
+		"/C/Users/creep_000/Google Drive/S/maths/sqrt/index.css",
+		"/C/Users/creep_000/Google Drive/S/maths/sqrt/index.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/index.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/survival/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/index.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/index.css",
+		"/D/Chrome/Apps/mms/manifest.json",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/dev/index.html",
+		"/D/Chrome/Apps/mms/buttons.css",
+		"/D/S/maths/sqrt/index.css",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/tits.html",
+		"/C/Users/creep_000/Documents/GitHub/Creeps-kake-Depository/web/disclaimer.js",
+		"/C/Users/creep_000/Documents/GitHub/Creeps-kake-Depository/web/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/minigame/main.js",
+		"/C/Users/creep_000/Documents/GitHub/Creeps-kake-Depository/web/jcanvas.min.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/disclaimer.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/default.css",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/community/members.json",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/community/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/community/index.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/minigames/index.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/buttons.js",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/pages/plotworld.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/pages/minigames.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/pages/survival.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/index.css",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/assets/slideshow/images.json",
+		"/D/S/maths/sqrt/index.js",
+		"/D/S/maths/sqrt/assets/components/core-transition/core-transition.html",
+		"/D/S/maths/sqrt/assets/components/paper-dialog/paper-dialog-transition.html",
+		"/D/S/maths/sqrt/assets/components/paper-input/paper-input.css",
+		"/D/S/maths/sqrt/assets/components/paper-input/demo.html",
+		"/D/S/maths/sqrt/assets/components/paper-input/paper-input.html",
+		"/C/Users/creep_000/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/creep_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/S/maths/sqrt/assets/root-logo.svg",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/index2.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/404.html",
+		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/Server/MinecraftQuery.class.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<td>",
+			"a",
+			"span",
+			"10px",
+			"-",
+			"do",
+			"\"",
+			"current()",
+			".",
+			"\"",
+			"pt",
+			"cubic-b",
+			"transparent",
+			"-webkit-",
+			"\\\"",
+			"()",
+			"diag",
+			"flat",
+			"click",
+			"event.preventDefault",
+			"\"",
+			"li",
+			"\"",
+			"\\\"",
+			"dialog",
+			"toast",
+			"slider",
+			"button",
+			"toggle-button",
+			"checkbox",
+			"button",
+			"200",
+			"abbr",
+			"strong",
+			"g",
+			"height",
+			"px",
+			"favourite",
+			"\";",
+			"guardian",
+			"29d",
+			"json",
+			"Dosis-Medium"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"px",
+			"'",
+			"pt",
+			"favorite",
+			"fd6060",
+			"Dosis"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "reflex.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "reflex.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "members.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "reflex.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
