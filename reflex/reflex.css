@@ -9,10 +9,15 @@ body {
 
 * {
 	transition: all 0.2s;
+	-webkit-font-smoothing: antialiased;
 }
 
 a {
 	text-decoration: none;
+}
+
+.title {
+	font-size: 30px;
 }
 
 #reflex {
@@ -102,6 +107,7 @@ a {
 	padding: 10px;
 	overflow-y: scroll;
 	overflow-x: hidden;
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,.23);
 }
 #memberinfo.hidden {
 	top: -150%;
