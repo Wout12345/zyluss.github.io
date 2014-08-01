@@ -1,38 +1,56 @@
 {
 	"Zyluss": {
 		"ign": "Zyluss_",
-		"info": "<img src='https://pbs.twimg.com/media/BtdEaLQIUAArK2h.jpg'>"
+		"info": "<img src='https://pbs.twimg.com/media/BtdEaLQIUAArK2h.jpg'>",
+		"youtube": "ADD_LATER",
+		"twitter": "Zyluss_"
 	},
 	"BHtheorie": {
 		"ign": "BHtheorie",
-		"info": "awesome guy"
+		"info": "awesome guy",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"MCLabs15": {
 		"ign": "squidguy5",
-		"info": "awesome guy"
+		"info": "awesome guy",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"ChristianMF2012": {
 		"ign": "ChristianMF2012",
-		"info": "idk who this is"
+		"info": "idk who this is",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"MrMakistein": {
 		"ign": "MrMakistein",
-		"info": "i actually dont know..."
+		"info": "i actually dont know...",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"joelzaper": {
 		"ign": "joelzaper",
-		"info": "who is this?"
+		"info": "who is this?",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"WotPot": {
 		"ign": "WotPot",
-		"info": "u wot m8"
+		"info": "u wot m8",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"LetsDoRedstone": {
 		"ign": "Xmoe",
-		"info": "awesome"
+		"info": "awesome",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	},
 	"G4me4u": {
 		"ign": "g4me4u",
-		"info": "ugh I really dont know what to put here"
+		"info": "ugh I really dont know what to put here",
+		"youtube": "ADD_LATER",
+		"twitter": "ADD_LATER"
 	}
 }
