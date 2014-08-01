@@ -53,6 +53,9 @@ a {
 		border-bottom: 3px solid #903;
 		color: #fff;
 	}
+	.btn.selected {
+		border-bottom: 3px solid #903;
+	}
 
 .member {
 	color: #fff; 
