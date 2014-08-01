@@ -30,10 +30,11 @@ $.ajax({
 			$("#memberinfo").css("left", $(this).offset().left - $(window).scrollLeft() + ( $(this).width() / 2 ) );
 			$("#memberinfo").css("height", $(this).height());
 			$("#memberinfo").css("width", $(this).width());
-			//$("#memberinfo").find("*").css("transform", "scale(0)");
 			$("#memberinfo").find("#name").text( $(this).find(".name").text() );
 			$("#memberinfo").find("#face").attr("src", $(this).find("img").attr("src") );
 			$("#memberinfo").find("#info").html( $(this).find(".info").html() );
+			//$("#memberinfo").find("img").css("width", "0");
+			//$("#memberinfo").find("img").css("height","0");
 			setTimeout(function(){
 				$("#memberinfo").css("transition","all 0.5s");
 				$("#memberinfo").find("*").css("transition","all 0.5s");
@@ -42,7 +43,8 @@ $.ajax({
 				$("#memberinfo").css("height","");
 				$("#memberinfo").css("width","");
 				$("#memberinfo").css("opacity","");
-				//$("#memberinfo").find("*").css("transform","");
+				//$("#memberinfo").find("*").css("width", "");
+				//$("#memberinfo").find("*").css("height","");
 			},1);
 		});
 	},1);
