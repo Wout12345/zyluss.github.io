@@ -95,3 +95,21 @@ a {
 	border-radius: 2px;
 	padding: 10px;
 }
+#memberinfo.hidden {
+	top: -100%;
+	width: 0;
+	height: 0;
+}
+	#close {
+		position: absolute;
+		top: 5px;
+		right: 5px;
+		background: #e11f1f;
+		width: 20px;
+		height: 20px;
+		border-radius: 10px;
+		font-size: 13px;
+	}
+	#close:hover {
+		background: #f88f8f;
+	}

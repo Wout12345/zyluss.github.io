@@ -20,6 +20,7 @@ $.ajax({
 
 	setTimeout(function(){
 		$(".member").click(function(){
+			$("#memberinfo").removeClass("hidden");
 			$("#memberinfo").css("display","block");
 			$("#memberinfo").css("transition","all 0s");
 			$("#memberinfo").find("*").css("transition","all 0s");
@@ -46,8 +47,6 @@ $.ajax({
 
 });
 
-$(document).ready(function(){
-
-	
-
+$("#memberinfo #close").click(function(){
+	$("#memberinfo").addClass("hidden");
 });
