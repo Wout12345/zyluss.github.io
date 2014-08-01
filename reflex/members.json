@@ -1,12 +1,34 @@
 {
-	"Zyluss_": {},
-	"BHtheorie": {},
-	"squidguy5": {},
-	"ChristianMF2012": {},
-	"MrMakistein": {},
-	"joelzaper": {},
-	"&lt;RedstoneCracked&gt;": {},
-	"&lt;Wout12345&gt;": {},
-	"WotPot": {},
-	"Xmoe": {}
+	"Zyluss": {
+		"ign": "Zyluss_",
+		"info": "A random webdev"
+	},
+	"BHtheorie": {
+		"ign": "BHtheorie",
+		"info": "awesome guy"
+	},
+	"MCLabs15": {
+		"ign": "squidguy5",
+		"info": "awesome guy"
+	},
+	"ChristianMF2012": {
+		"ign": "ChristianMF2012",
+		"info": "idk who this is"
+	},
+	"MrMakistein": {
+		"ign": "MrMakistein",
+		"info": "i actually dont know..."
+	},
+	"joelzaper": {
+		"ign": "joelzaper",
+		"info": "who is this?"
+	},
+	"WotPot": {
+		"ign": "WotPot",
+		"info": "awesome"
+	},
+	"LetsDoRedstone": {
+		"ign": "Xmoe",
+		"info": "awesome"
+	}
 }

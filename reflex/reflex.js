@@ -7,9 +7,10 @@ $.ajax({
 	for ( var i in data ) {
 		output += "\
 		<div class='member'>\
-			<img src='http://minecraft-skin-viewer.com/face.php?u="+ i +"&s=400'>\
+			<img src='http://minecraft-skin-viewer.com/face.php?u="+ data[i].ign +"&s=400'>\
 			<span class='name'>"+ i +"</span><br>\
-			<span>&lt;youtube&gt;</span>\
+			<span>"+ data[i].ign +"</span>\
+			<span class='info'>"+ data[i].info +"</span>\
 		</div>\
 		";
 	}
@@ -29,9 +30,10 @@ $.ajax({
 			$("#memberinfo").css("left", $(this).offset().left - $(window).scrollLeft() + ( $(this).width() / 2 ) );
 			$("#memberinfo").css("height", $(this).height());
 			$("#memberinfo").css("width", $(this).width());
-			$("#memberinfo").find("*").css("transform", "scale(0)");
+			//$("#memberinfo").find("*").css("transform", "scale(0)");
 			$("#memberinfo").find("#name").text( $(this).find(".name").text() );
 			$("#memberinfo").find("#face").attr("src", $(this).find("img").attr("src") );
+			$("#memberinfo").find("#info").html( $(this).find(".info").html() );
 			setTimeout(function(){
 				$("#memberinfo").css("transition","all 0.5s");
 				$("#memberinfo").find("*").css("transition","all 0.5s");
@@ -40,7 +42,7 @@ $.ajax({
 				$("#memberinfo").css("height","");
 				$("#memberinfo").css("width","");
 				$("#memberinfo").css("opacity","");
-				$("#memberinfo").find("*").css("transform","");
+				//$("#memberinfo").find("*").css("transform","");
 			},1);
 		});
 	},1);
