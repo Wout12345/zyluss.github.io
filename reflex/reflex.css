@@ -103,25 +103,49 @@ a {
 	width: 0;
 	height: 0;
 }
-	#face {
+	#memberinfo #face {
 		position: absolute;
 		top: 10px;
 		left: 10px;
 		height: 50px;
 	}
-	#name {
+	#memberinfo #name {
 		font-size: 25px;
 	}
-	#close {
+	#memberinfo #close {
 		position: absolute;
 		top: 5px;
 		right: 5px;
-		background: #e11f1f;
-		width: 20px;
-		height: 20px;
-		border-radius: 10px;
-		font-size: 13px;
+		height: 35px;
 	}
-	#close:hover {
-		background: #f88f8f;
+	#memberinfo #close:hover circle {
+		fill: #ffffff;
+	}
+	#memberinfo #close:hover line {
+		stroke-width: 4;
+		stroke: #e11f1f;
+	}
+	#memberinfo #twlink {
+		height: 35px;
+		position: absolute;
+		top: 5px;
+		right: 75px;
+	}
+	#memberinfo #twlink:hover circle {
+		fill: #ffffff;
+	}
+	#memberinfo #twlink:hover path {
+		fill: #1bb2e7;
+	}
+	#memberinfo #ytlink {
+		height: 35px;
+		position: absolute;
+		top: 5px;
+		right: 40px;
+	}
+	#memberinfo #ytlink:hover circle {
+		fill: #ffffff;
+	}
+	#memberinfo #ytlink:hover polygon {
+		fill: #ef4136;
 	}

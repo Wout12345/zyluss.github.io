@@ -33,17 +33,18 @@ $.ajax({
 			$("#memberinfo").find("#name").text( $(this).find(".name").text() );
 			$("#memberinfo").find("#face").attr("src", $(this).find("img").attr("src") );
 			$("#memberinfo").find("#info").html( $(this).find(".info").html() );
-			//$("#memberinfo").find("img").css("width", "0");
+			$("#memberinfo #info").find("*").css("opacity", "0");
 			//$("#memberinfo").find("img").css("height","0");
 			setTimeout(function(){
 				$("#memberinfo").css("transition","all 0.5s");
-				$("#memberinfo").find("*").css("transition","all 0.5s");
+				$("#memberinfo").find("*").css("transition","");
+				$("#memberinfo #info").find("*").css("transition","all 1s");
 				$("#memberinfo").css("top","");
 				$("#memberinfo").css("left","");
 				$("#memberinfo").css("height","");
 				$("#memberinfo").css("width","");
 				$("#memberinfo").css("opacity","");
-				//$("#memberinfo").find("*").css("width", "");
+				$("#memberinfo #info").find("*").css("opacity", "1");
 				//$("#memberinfo").find("*").css("height","");
 			},1);
 		});
