@@ -139,6 +139,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/index.html",
 		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/assets/close.svg",
 		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/assets/youtube.svg",
 		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/reflex/assets/twitter.svg",
@@ -217,7 +218,6 @@
 		"/D/Chrome/Apps/mms/background.js",
 		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/plotworld/index.html",
 		"/C/Users/creep_000/Documents/GitHub/MMSMC.github.io/wip-page/economy/index.html",
-		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/index.html",
 		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/index.css",
 		"/C/Users/creep_000/Documents/GitHub/zyluss.github.io/cheese.html",
 		"/C/Users/creep_000/AppData/Local/Temp/Temp1_Nodus_2.0-1.7.x.zip/Nodus_2.0-1.7.x/Nodus_2.0-1.7.x/Nodus_2.0-1.7.x.json",
@@ -355,7 +355,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -384,7 +384,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -413,7 +413,7 @@
 						"translation.y": 1171.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -442,7 +442,7 @@
 						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -470,7 +470,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
