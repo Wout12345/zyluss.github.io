@@ -79,7 +79,7 @@ a {
 	margin-left: 15px;
 	font-size: 25px;
 }
-.member .info {
+.member .info, .member .twitter, .member .youtube {
 	display: none;
 }
 
@@ -99,7 +99,7 @@ a {
 	padding: 10px;
 }
 #memberinfo.hidden {
-	top: -100%;
+	top: -150%;
 	width: 0;
 	height: 0;
 }

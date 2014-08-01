@@ -1,4 +1,7 @@
 
+var mictwitter = "";
+var micyoutube = "";
+
 $.ajax({
 	dataType: "json",
 	url: "members.json"
@@ -11,6 +14,8 @@ $.ajax({
 			<span class='name'>"+ i +"</span><br>\
 			<span>"+ data[i].ign +"</span>\
 			<span class='info'>"+ data[i].info +"</span>\
+			<span class='twitter'>"+data[i].twitter+"</span>\
+			<span class='youtube'>"+data[i].youtube+"</span>\
 		</div>\
 		";
 	}
@@ -35,6 +40,22 @@ $.ajax({
 			$("#memberinfo").find("#info").html( $(this).find(".info").html() );
 			$("#memberinfo #info").find("*").css("opacity", "0");
 			//$("#memberinfo").find("img").css("height","0");
+
+			if ( $(this).find(".twitter").text() != "" ) {
+				$("#memberinfo #twlink").css("display","block");
+				$("#memberinfo #twlink").attr("title","@" + $(this).find(".twitter").text() );
+				mictwitter = "http://twitter.com/" + $(this).find(".twitter").text();
+			} else {
+				$("#memberinfo #twlink").css("display","none");
+			}
+			if ( $(this).find(".youtube").text() != "" ) {
+				$("#memberinfo #ytlink").css("display","block");
+				$("#memberinfo #ytlink").attr("title", $(this).find(".youtube").text() );
+				micyoutube = "http://youtube.com/" + $(this).find(".youtube").text();
+			} else {
+				$("#memberinfo #ytlink").css("display","none");
+			}
+
 			setTimeout(function(){
 				$("#memberinfo").css("transition","all 0.5s");
 				$("#memberinfo").find("*").css("transition","");
@@ -54,4 +75,11 @@ $.ajax({
 
 $("#memberinfo #close").click(function(){
 	$("#memberinfo").addClass("hidden");
+});
+
+$("#memberinfo #twlink").click(function(){
+	window.location = mictwitter;
+});
+$("#memberinfo #ytlink").click(function(){
+	window.location = micyoutube;
 });
