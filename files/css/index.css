@@ -51,6 +51,18 @@ a:hover, a:focus
   padding:1.5%;
   background-color:white;
 }
+.maps
+{
+  color:#383838;
+  font-size:20px;
+  top:75%;
+  position:absolute;
+  font-weight:300;
+  border-bottom-color:black;
+  border-bottom-style:solid;
+  padding:1.5%;
+  background-color:white;
+}
 
 ul
 {
